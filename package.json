@@ -1,0 +1,13 @@
+{
+  "name": "synovance-ventures",
+  "version": "1.0.0",
+  "description": "Synovance Ventures - Digital Systems For Growing Businesses",
+  "type": "module",
+  "scripts": {
+    "build": "echo 'Build step not required for static site'"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.4.1"
+  },
+  "devDependencies": {}
+}
